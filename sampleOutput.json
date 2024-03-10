@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 31,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "NBC Southern California"
+    },
+    "author": "Helen Jeong",
+    "title": "JPL plans to lay off hundreds of employees due to lack of funding - NBC Southern California",
+    "description": "NASA’s Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year, according to an internal memo. “While we still do not hav…",
+    "url": "http://www.nbclosangeles.com/news/local/jpl-plans-to-lay-off-hundreds-of-employees-due-to-lack-of-funding/3332447/",
+    "urlToImage": "https://media.nbclosangeles.com/2024/02/GettyImages-925624260-1.jpg?quality=85&strip=all&resize=1200%2C675",
+    "publishedAt": "2024-02-07T03:32:12Z",
+    "content": "NASAs Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year… [+1147 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Abigail Hauslohner, Marianna Sotomayor, Liz Goodwin",
+    "title": "House GOP fails to pass Israel package as congressional impasse continues - The Washington Post",
+    "description": "The vote left uncertain the path ahead for funding several security priorities. A Senate bill has been called “dead on arrival” if it reaches the House.",
+    "url": "https://www.washingtonpost.com/national-security/2024/02/06/house-israel-aid-bill-fails/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCL7AGLAFBDXJJ46B7LSBPF2QE.JPG&w=1440",
+    "publishedAt": "2024-02-07T03:20:00Z",
+    "content": "The Republican-led House on Tuesday failed to pass a bill that sought to provide billions of dollars in military aid to Israel, extending an impasse over how to address some of the United States top … [+8973 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Filip Timotija",
+    "title": "CNN anchor pushes back on GOP lawmaker regarding president’s power to shut border: ‘You are just wrong’ - The Hill",
+    "description": "CNN anchor Brianna Keilar pushed back on GOP Rep. Josh Brecheen’s (R-Okla.) assertion about President Biden’s abilities to shut down the southern border, telling the lawmaker, “You are just wrong.”  Keilar asked Brecheen to voice his concerns about the bipart…",
+    "url": "https://thehill.com/homenews/house/4452451-cnn-anchor-pushes-back-on-gop-rep-over-presidents-power-to-shut-border-you-are-just-wrong/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/25865_001_1406_sv1-e1707275632285.jpg?w=1280",
+    "publishedAt": "2024-02-07T03:14:00Z",
+    "content": "Skip to content\r\nCNN anchor Brianna Keilar pushed back on GOP Rep. Josh Brecheen’s (R-Okla.) assertion about President Biden’s abilities to shut down the southern border, telling the lawmaker, “You a… [+2304 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Gina Martinez",
+    "title": "Pod of orcas trapped by thick sea ice off northern Japan, drone footage shows - CBS News",
+    "description": "Drone footage from Tuesday morning showed a pod of at least 10 killer whales surrounded by drift ice off Hokkaido, Japan.",
+    "url": "https://www.cbsnews.com/news/orcas-trapped-drift-ice-hokkaido-japan-drone-footage/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/07/b6c6ae89-d145-44f6-9d7c-0f18aa63f8d3/thumbnail/1200x630/df31f40f262ebc253ba1e5bea5a68d97/orcas.png?v=09f617bc45cf30bf4fa8525d3acea178",
+    "publishedAt": "2024-02-07T02:33:00Z",
+    "content": "A pod of at least 10 orcas are trapped by sea ice off the coast of northern Japan, drone footage from Tuesday morning shows.\r\nThe video, released by local wildlife organization Wildlife Pro, showed t… [+448 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "John Santucci, Katherine Faulders, Rachel Scott",
+    "title": "RNC Chair Ronna McDaniel discussed stepping down with Trump, sources say - ABC News",
+    "description": "McDaniel was reelected in January for her fourth term.",
+    "url": "https://abcnews.go.com/Politics/rnc-chair-ronna-mcdaniel-discussed-stepping-down-donald-trump-sources/story?id=107009390",
+    "urlToImage": "https://i.abcnewsfe.com/a/0d831d22-8d91-44a0-801e-0d8e8127b6a7/ronna-mcdaniel-ap-lv-240206_1707268577043_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-02-07T02:10:09Z",
+    "content": "Ronna McDaniel, the chair of the Republican National Committee, has discussed with Donald Trump the possibility of resigning from her position after the South Carolina primary, according to multiple … [+1843 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/amir-vera\">Amir Vera</a>, Jack Guy, Antoinette Radford, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/tori-powell\">Tori B. Powell</a> and <a href=\"/profiles/helen-regan\">Helen Regan</a>, CNN",
+    "title": "The latest on the Israel-Hamas war: Live updates - CNN",
+    "description": "Hamas has sent a \"positive\" reply to a proposal aimed at the release of the remaining hostages in Gaza and a sustained cessation in fighting, Qatar's prime minister said. Follow here for live updates.",
+    "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-06-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240201151512-04-gaza-unrwa-suspension-super-tease.jpeg",
+    "publishedAt": "2024-02-07T02:00:00Z",
+    "content": "US Secretary of State Antony Blinken has arrived in Israel ahead of high-stakes meetings with top officials to discuss a proposal for a sustained cessation in the Gaza fighting in exchange for Hamas'… [+2307 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Trump lost his bid for immunity — again. Now what? - POLITICO",
+    "description": "Here are three scenarios for how the Supreme Court could handle Trump’s imminent appeal.",
+    "url": "https://www.politico.com/news/2024/02/06/trump-criminal-immunity-supreme-court-00140027",
+    "urlToImage": "https://static.politico.com/d6/ee/f5ba8ff443a6a9e111743da90421/https-delivery-gettyimages.com/downloads/1965959350",
+    "publishedAt": "2024-02-07T01:56:24Z",
+    "content": "They could hear Trumps appeal on an accelerated schedule. They could take their time and in doing so, essentially guarantee that the federal election-subversion trial could not occur before November.… [+4335 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "DANICA KIRKA",
+    "title": "King Charles III's cancer diagnosis lays bare pressures at Buckingham Palace - The Associated Press",
+    "description": "King Charles III’s cancer diagnosis heaps more pressure on the British monarchy, which is still evolving after the 70-year reign of the late Queen Elizabeth II. When he succeeded his mother 17 months ago, Charles’ task was to demonstrate that the 1,000-year-o…",
+    "url": "https://apnews.com/article/king-charles-iii-prince-william-cancer-challenges-85b71186a7553fc5f54589a42a886b1f",
+    "urlToImage": "https://dims.apnews.com/dims4/default/01d1dfb/2147483647/strip/true/crop/2367x1331+0+124/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F64%2F15de613ed977ef4b24a483d02688%2F4574f34a1e25496b99c9e543268576ff",
+    "publishedAt": "2024-02-07T01:47:00Z",
+    "content": "LONDON (AP) King Charles IIIs cancer diagnosis heaps more pressure on the British monarchy, which is still evolving after the 70-year reign of the late Queen Elizabeth II.\r\nWhen he succeeded his moth… [+8510 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Matt Egan",
+    "title": "New York Community Bancorp’s credit rating downgraded to junk on real estate concerns - CNN",
+    "description": "Embattled regional bank New York Community Bancorp suffered another blow Tuesday evening as Moody’s Investors Service downgraded its credit rating to junk status.",
+    "url": "https://www.cnn.com/2024/02/06/business/moodys-downgrades-new-york-community-bancorp-junk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-01-31t180546z-1625590418-rc25t5atkrkl-rtrmadp-3-new-york-community-bancorp-stock.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-07T01:40:41Z",
+    "content": "Embattled regional bank New York Community Bancorp suffered another blow Tuesday evening as Moodys Investors Service downgraded its credit rating to junk status.\r\nMoodys said the downgrade was driven… [+2300 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Dan Goodin",
+    "title": "Critical vulnerability affecting most Linux distros allows for bootkits - Ars Technica",
+    "description": "Buffer overflow in bootloader shim allows attackers to run code each time devices boot up.",
+    "url": "https://arstechnica.com/security/2024/02/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg",
+    "publishedAt": "2024-02-07T01:37:36Z",
+    "content": "13\r\nLinux developers are in the process of patching a high-severity vulnerability that, in certain cases, allows the installation of malware that runs at the firmware level, giving infections access … [+3210 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Action Network"
+    },
+    "author": "The Action Network",
+    "title": "Christian McCaffrey Prop | Super Bowl Bet for 49ers-Chiefs - The Action Network",
+    "description": null,
+    "url": "https://www.actionnetwork.com/nfl/christian-mccaffrey-super-bowl-player-prop-the-bet-for-49ers-chiefs",
+    "urlToImage": null,
+    "publishedAt": "2024-02-07T01:35:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "California flooding: Storm-soaked neighbourhoods brace for mudslides - BBC.com",
+    "description": "The rain is forecast to linger into Tuesday night, placing millions of people under a risk of flooding.",
+    "url": "https://www.bbc.com/news/world-us-canada-68206819",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D83D/production/_132575355_gettyimages-1989095800.jpg",
+    "publishedAt": "2024-02-07T01:03:54Z",
+    "content": "By Brandon DrenonBBC News\r\nWatch: LA fire department rescue man from surging river\r\nThe record rain pounding California since Sunday is expected to linger and drive up the threat of mudslides and fla… [+3497 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jeff Marks",
+    "title": "Ford's turnaround is back on track after the carmaker delivers a much-needed beat and raise - CNBC",
+    "description": "As Ford gets a better handle on its quality and warranty issues, we're starting to see how profitable it can be even in a flattish environment for cars.",
+    "url": "https://www.cnbc.com/2024/02/06/fords-turnaround-back-on-track-after-carmaker-posts-beat-and-raise.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107051991-gettyimages-1240254940-DET171.jpeg?v=1651010483&w=1920&h=1080",
+    "publishedAt": "2024-02-07T00:51:00Z",
+    "content": "Ford Motor delivered an earnings beat Tuesday, along with a stronger-than-expected outlook as cost cuts and higher profits from its commercial car business are expected to more than offset the losses… [+111 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Sean Hollister",
+    "title": "Watch 11 minutes of Final Fantasy VII Rebirth gameplay features — and the final trailer - The Verge",
+    "description": "Final Fantasy VII Rebirth is coming February 29th, and both Sony and Square Enix want to make damn sure that fans know this game is a can’t-miss event. Here’s over 12 minutes of video.",
+    "url": "https://www.theverge.com/2024/2/6/24064121/final-fantasy-vii-rebirth-final-trailer-gameplay-video",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/vLkFFjUCNy0aTq8-FTeI5cDTQEE=/0x0:2560x1790/1200x628/filters:focal(1280x895:1281x896)/cdn.vox-cdn.com/uploads/chorus_asset/file/25271214/SCR_20240206_oise.jpeg",
+    "publishedAt": "2024-02-07T00:17:00Z",
+    "content": "Watch 11 minutes of Final Fantasy VII Rebirth gameplay features and the final trailer\r\nWatch 11 minutes of Final Fantasy VII Rebirth gameplay features and the final trailer\r\n / Unlocking the world ma… [+210 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters Canada",
+    "title": "Chile's former president Sebastian Pinera dies in helicopter crash - Reuters Canada",
+    "description": null,
+    "url": "https://www.reuters.com/world/americas/chile-ex-president-sebastianpinera-dies-helicopter-crash-local-media-says-2024-02-06/",
+    "urlToImage": null,
+    "publishedAt": "2024-02-07T00:16:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sandee LaMotte",
+    "title": "Foods we eat are covered in plastics that may be causing a rise in premature births, study says - CNN",
+    "description": "Chemicals used in clear plastic food packaging and other products may be responsible for up to 10% of premature births in the US during 2018, a new study found.",
+    "url": "https://www.cnn.com/2024/02/06/health/preterm-birth-phthalates-study-wellness/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1211339824.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-07T00:11:00Z",
+    "content": "Premature births are on the rise, yet experts arent sure why. Now, researchers have found synthetic chemicals called phthalates used in clear food packaging and personal care products could be a culp… [+7959 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Alex Barinka",
+    "title": "Snap Reports Disappointing Revenue During Ad Slump; Shares Plunge - Yahoo Finance",
+    "description": "(Bloomberg) -- Snap Inc. plunged more than 30% in late trading after posting disappointing revenue in the holiday quarter, a sign the owner of the Snapchat...",
+    "url": "https://finance.yahoo.com/news/snap-reports-disappointing-revenue-during-214317242.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q_nrEPtDSMcOjRzLDH0NPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjM-/https://media.zenfs.com/en/bloomberg_technology_68/1edf3876d79ccffeac382694ab1706e0",
+    "publishedAt": "2024-02-07T00:03:00Z",
+    "content": "(Bloomberg) -- Snap Inc. plunged more than 30% in late trading after posting disappointing revenue in the holiday quarter, a sign the owner of the Snapchat app is still reeling from a slump in its di… [+4219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "Dr. John York helped give Kyle Shanahan the clarity to draft Brock Purdy - NBC Sports",
+    "description": "Before Brock Purdy could become the quarterback of the 49ers, he had to become a member of the 49ers.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dr-john-york-helped-give-kyle-shanahan-the-clarity-to-draft-brock-purdy",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5b2daef/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F699%2Fnbc_pft_purdyunderdog_240206.jpg",
+    "publishedAt": "2024-02-06T23:49:38Z",
+    "content": "Before Brock Purdy could become the quarterback of the 49ers, he had to become a member of the 49ers. He became a member of the 49ers through the last pick of the draft.\r\nAnd he became the last pick … [+1904 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Actress Gina Carano sues Disney and Lucasfilm with Elon Musk's help - BBC.com",
+    "description": "The actress was fired in 2021 for comparing being a Republican to being a Jew during the Holocaust.",
+    "url": "https://www.bbc.com/news/world-us-canada-68223906",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E23/production/_132578363_gettyimages-1194400200.jpg",
+    "publishedAt": "2024-02-06T23:17:25Z",
+    "content": "Gina Carano claims she faced \"a bullying smear campaign\" over her social media posts\r\nActress Gina Carano has sued Disney and Lucasfilm after she was sacked in 2021 over a social media post in which … [+3039 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "ED WHITE, COREY WILLIAMS",
+    "title": "Michigan school shooter’s mother found guilty of manslaughter - The Associated Press",
+    "description": "A Michigan jury has found a school shooter’s mother guilty of involuntary manslaughter in the deaths of four students in 2021. The verdict returned Tuesday makes Jennifer Crumbley the first parent in the U.S. to be held responsible for a child carrying out a …",
+    "url": "https://apnews.com/article/oxford-high-school-mother-charged-01f336607a496c5f9ff0cb3a7434d073",
+    "urlToImage": "https://dims.apnews.com/dims4/default/9ed8316/2147483647/strip/true/crop/2400x1350+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2F9c%2F6e1d38d2aab23da9a12d7d5a226c%2F50798001fe504b0f927938ce22b932d3",
+    "publishedAt": "2024-02-06T23:04:00Z",
+    "content": "PONTIAC, Mich. (AP) A Michigan jury convicted a school shooters mother of involuntary manslaughter Tuesday in the killings of four students in 2021, making her the first parent in the U.S. to be held… [+5311 chars]"
+    }
+    ]
+    }
